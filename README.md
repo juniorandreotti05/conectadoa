@@ -56,3 +56,9 @@ A resposta deve apresentar o status `ok`.
 ## Objetivo
 
 Desenvolver uma aplicação simples para praticar a integração entre frontend e backend, utilizando ferramentas modernas de desenvolvimento web.
+## Estrutura do projeto
+
+- `src/`: arquivos da interface do site.
+- `server/`: código da API Express.
+- `.env.example`: exemplo das variáveis de ambiente.
+- `vite.config.ts`: configuração do servidor de desenvolvimento e proxy.
